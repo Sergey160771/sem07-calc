@@ -1,4 +1,4 @@
-def calc_comp(real, real1, oper):
+def calc_value(real, real1, oper):
     if oper == '+':
         res = complex(real.replace(' ', '')) + complex(real1.replace(' ', ''))
     elif oper == '-':
@@ -8,6 +8,3 @@ def calc_comp(real, real1, oper):
     else:
         res = complex(real.replace(' ', '')) / complex(real1.replace(' ', ''))
     return res
-
-
-print(calc_comp('4+5j', '1+2j', '+'))
