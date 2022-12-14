@@ -6,7 +6,8 @@
 ### Группа №1
 * [**Константин Пивнов**](https://gb.ru/users/1215073):
 [logger](https://github.com/vaproloff/sem07-calc/blob/main/logger.py),
-[controller](https://github.com/vaproloff/sem07-calc/blob/main/controller.py)
+[controller](https://github.com/vaproloff/sem07-calc/blob/main/controller.py),
+[validator](https://github.com/vaproloff/sem07-calc/blob/main/validator.py),
 
 * [**Руслан**](https://gb.ru/users/3100909):
 [view](https://github.com/vaproloff/sem07-calc/blob/main/view.py)
