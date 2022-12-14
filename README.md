@@ -15,7 +15,7 @@
 * [**Сергей Карташов**](https://gb.ru/users/7683636):
 [calc_rational](https://github.com/vaproloff/sem07-calc/blob/main/calc_rational.py)
 
-* **Сергей**:
+* [**Сергей**](https://gb.ru/users/7832374):
 [calc_complex](https://github.com/vaproloff/sem07-calc/blob/main/calc_complex.py)
 
 ---
